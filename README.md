@@ -1,5 +1,6 @@
 # 💫 About Me:
-Front end web developer I'm skilled in HTML, CSS, JavaScript, React and Firebaes<br>
+I am a front-end developer who looks forward to creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, JavaScript and React I am able to build responsive and interactive web pages that provide a seamless experience for users across all devices. I am always looking for opportunities and learn new technologies.
+<br>
 
 
 ## 🌐 Socials:
