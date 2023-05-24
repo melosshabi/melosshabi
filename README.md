@@ -14,5 +14,3 @@ I am a front-end developer who looks forward to creating visually appealing and 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=melosshabi&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
