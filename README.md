@@ -12,5 +12,44 @@ I am a front-end developer who looks forward to creating visually appealing and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melosshabi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melosshabi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+# 👨‍💻 Projects
+
+![Booking](https://www.melosshabi.com/images/booking.png)
+# Booking Website  
+
+[Code](https://github.com/melosshabi/booking/tree/main)
+[Demo](https://melosshabi.github.io/booking/)
+
+---
+![Dealership](https://www.melosshabi.com/images/dealership.png)
+# Dealership Website
+
+[Code](https://github.com/melosshabi/chat-app)
+[Demo](https://melosshabi.github.io/dealership/)
+
+---
+
+![ChatApp](https://www.melosshabi.com/images/chat-app.png)
+# Chat App
+
+[Code](https://github.com/melosshabi/dealership/tree/main)
+[Demo](https://melosshabi.github.io/chat-app/#/signIn/)
+
+---
+
+![Blog website](https://www.melosshabi.com/images/blog-website.png)
+# Blog Website
+
+[Code](https://github.com/melosshabi/blog-website)
+[Demo](https://melosshabi.github.io/blog-website/)
+
+---
+
+![Notes app](https://www.melosshabi.com/images/notes-app.png)
+# Notes App
+
+[Code](https://github.com/melosshabi/notes-app/tree/main)
+[Demo](https://melosshabi.github.io/notes-app/#/)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=melosshabi&icon=0&color=9)](https://visitcount.itsvg.in)
