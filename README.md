@@ -12,7 +12,7 @@ I am a front-end developer who looks forward to creating visually appealing and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melosshabi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melosshabi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 👨‍💻 Projects
+<!-- # 👨‍💻 Projects
 
 ![Booking](https://www.melosshabi.com/images/booking.png)
 # Booking Website  
@@ -50,6 +50,6 @@ I am a front-end developer who looks forward to creating visually appealing and 
 
 [Code](https://github.com/melosshabi/notes-app/tree/main)
 [Demo](https://melosshabi.github.io/notes-app/#/)
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=melosshabi&icon=0&color=9)](https://visitcount.itsvg.in)
