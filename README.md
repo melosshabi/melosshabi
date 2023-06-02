@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end developer who looks forward to creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, JavaScript and React I am able to build responsive and interactive web pages that provide a seamless experience for users across all devices. I am always looking for opportunities and learn new technologies.
+I am a front-end developer who looks forward to creating visually appealing and user-friendly websites. With a strong foundation in HTML, CSS, JavaScript and React I am able to build responsive and interactive web pages that provide a seamless experience for users across all devices. I am always looking new opportunities and forward to learning new technologies.
 
 
 ## 🌐 Socials:
