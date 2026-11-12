@@ -10,4 +10,8 @@ look:
 show: [summary, languages, contributions, weekly, streaks, about]
 cards:
   about:
-    headline: "Mela"
+    title: "Melos Shabi"
+    headline: "Full-Stack Developer"
+    lines:
+      - "Full-stack developer from Prishtinë, Kosovo. I build web, mobile & desktop apps."
+      - "Mostly living in *TypeScript*, *C#* and *PostgreSQL*."
