@@ -37,4 +37,14 @@ I'm a Full-Stack Developer with a flair for crafting seamless user experiences t
   <img src="https://raw.githubusercontent.com/melosshabi/melosshabi/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melosshabi/melosshabi/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/melosshabi/melosshabi/cards/streaks-light.svg" width="400" alt="Streaks">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melosshabi/melosshabi/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/melosshabi/melosshabi/cards/about-light.svg" width="400" alt="About">
+</picture>
+</p>
 <!-- cool-readme:end -->
