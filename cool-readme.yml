@@ -4,6 +4,10 @@ count:
   private: true
   orgs: true
 look:
-  style: classic
-  color: github
-  background: none
+  style: oled
+  color: amber
+  background: 0d0b07
+show: [summary, languages, contributions, weekly, streaks, about]
+cards:
+  about:
+    headline: "Mela"
