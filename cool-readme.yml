@@ -4,9 +4,9 @@ count:
   private: true
   orgs: true
 look:
-  style: oled
-  color: amber
-  background: 0d0b07
+  style: classic
+  color: cyan
+  background: 050c0d
 show: [summary, languages, contributions, weekly, streaks, about]
 cards:
   about:
